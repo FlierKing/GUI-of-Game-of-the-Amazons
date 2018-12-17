@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="chessboard">source/chessboard.jpg</file>
+        <file alias="grid_black">source/grid_black.jpg</file>
+        <file alias="grid_white">source/grid_white.jpg</file>
+        <file alias="obstacle">source/obstacle.jpg</file>
+        <file alias="blank">source/blank.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new">
+        <file alias="chessboard">chessboard.png</file>
+    </qresource>
+</RCC>
